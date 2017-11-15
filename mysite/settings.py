@@ -25,7 +25,7 @@ SECRET_KEY = '83xn5c=&&ozpqj)k8!3tcc(htqfe#uu@ri(7vih2tjl9p@xg^8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djAngoo.pythonanywhere.com']
 
 
 # Application definition
